@@ -26,6 +26,8 @@ Visualization with Power BI: Microsoft Power BI was employed to create insightfu
 
 Sentiment Analysis: filtered news by bullish/bearish sentiments
 
+Upcoming Ipo and earnings date: has a page to showcase IPO and earnings.
+
 ## Project Showcase
 
 This project serves as a valuable resource for anyone interested in understanding and optimizing the profitability of e-commerce sales in today's competitive marketplace. Feel free to explore, contribute, and adapt the code and analysis for your specific use cases. Your feedback and contributions are highly appreciated!
