@@ -1,0 +1,11 @@
+1) Extract data from alphavantage API. I did this using M-Code and reading the api notes on their websites
+
+2) Tasks: Use powerpoint to design a background
+
+
+THINGS I LEARNED - you can expand lists in powerbi by clicking on the top right of a column instead of having to manually code it using M-code
+                   figured out 30-60-90 days logic to filter the data with
+                   when doing new sentiment analysis i had difficulty arrange the date/time format. I was given this 20230815T000000. Solution -> Create custom column
+		   and then use a formula to get it into a different format: 2023-08-15 00:00:00
+
+          
