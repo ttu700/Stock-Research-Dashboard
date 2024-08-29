@@ -34,3 +34,8 @@ This project serves as a valuable resource for anyone interested in understandin
 
 ##### Preview
 ![image](https://github.com/ttu700/Stock-Research-Dashboard/blob/main/Stock%20Research%20Dashboard/stockshowcase.gif)
+
+[![image](https://github.com/user-attachments/assets/b4a8f2e3-6278-4c2e-968a-a3d554828a43)](https://github.com/ttu700/Stock-Research-Dashboard/blob/main/Stock%20Research%20Dashboard/stocknewsshowcase.gif)
+
+[![image](https://github.com/ttu700/Stock-Research-Dashboard/blob/main/Stock%20Research%20Dashboard/ipoandearningssshowcase.gif)
+
