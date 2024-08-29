@@ -16,7 +16,7 @@
         
 ## Dataset Overview
 
-Acquired stock api from alphavantage and created a view for 3mo-6mo-9mo of data for any stock. Unfortunately free api doesn't allow more data to be pulled hence the short range. 
+Acquired stock api from alphavantage and created a view for 1mo-3mo-6mo of data for any stock. Unfortunately free api doesn't allow more data to be pulled hence the short range. 
 
 ## Project Highlights:
 
